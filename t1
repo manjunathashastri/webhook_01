@@ -1,4 +1,4 @@
 echo " web project"
 cd /var/lib/jenkins
 
-touch f1
+touch f2
